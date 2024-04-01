@@ -25,4 +25,5 @@ tags:
 - Utilize Power rule for logarithm simplification. $$\ln x^{2}= 2\ln x$$
 - Don't keep y or f(x) in your final derivative if possible. Try to turn it back into terms of x.
 ![[How To Win Quizzes-20240308125232387.webp|480]]
-- ![[How To Win Quizzes-20240319140736717.webp]]
+- Make sure trig arguments are clear
+![[How To Win Quizzes-20240319140736717.webp]]
