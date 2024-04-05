@@ -19,3 +19,4 @@ tags:
 - [[Derivative]]
 # Unit 4
 - [[Critical Points]]
+- [[Curve Sketching]]
