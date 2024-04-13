@@ -29,3 +29,4 @@ tags:
 ![[How To Win Quizzes-20240319140736717.webp]]
 # Unit 4
 - Keep velocity and acceleration units
+- Always factor and remove holes before finding limits. 

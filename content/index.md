@@ -20,3 +20,6 @@ tags:
 # Unit 4
 - [[Critical Points]]
 - [[Curve Sketching]]
+- [[Concavity]]
+- [[Asymptotes]]
+- [[Curve Sketching Process]]

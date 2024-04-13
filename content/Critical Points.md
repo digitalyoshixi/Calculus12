@@ -1,6 +1,6 @@
 ---
 tags:
-  - critical_points
+  - curve_sketching
 aliases:
   - Maxima
   - Minima
