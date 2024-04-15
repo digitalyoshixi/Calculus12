@@ -30,3 +30,4 @@ tags:
 # Unit 4
 - Keep velocity and acceleration units
 - Always factor and remove holes before finding limits. 
+- Dont use decimal exponents. Use fraction ones, more accurate
