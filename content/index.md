@@ -23,3 +23,6 @@ tags:
 - [[Concavity]]
 - [[Asymptotes]]
 - [[Curve Sketching Process]]
+- [[Measuring Infinities]]
+# Unit 3
+- [[Optimization]]

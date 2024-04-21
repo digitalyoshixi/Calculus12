@@ -11,8 +11,6 @@ tags:
 6. [[Concavity|Inflection Points]]
 7. [[Concavity]]
 8. Graph
-
-
 # Rational Functions
 1. Factor for [[Holes]]
 2. [[Asymptote#Vertical Asymptote|V.A]]
