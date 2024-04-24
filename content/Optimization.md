@@ -9,3 +9,5 @@ The process that solves for the best possible outcome
 - [[Optimizing Product and Sum]]
 - [[Optimizing Set Surface Area Find Volume]]
 - [[Optimizing Box Corner Cut]]
+- [[Optimizing Nearest Point]]
+- [[Optimizing Boat Distance]]

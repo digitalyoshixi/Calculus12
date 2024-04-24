@@ -32,3 +32,4 @@ tags:
 - Always factor and remove holes before finding limits. 
 - Dont use decimal exponents. Use fraction ones, more accurate
 - Graph everything the second you find it. If you do it last, then you will forget everything
+- Critical point != critical value. Critical points do not exist at asymptotes.
