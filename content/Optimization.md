@@ -13,6 +13,9 @@ The process that solves for the best possible outcome
 - [[Optimizing Manufacturing Ammounts]]
 - [[Optimizing Rebates]]
 - [[Optimizing Box Cost]]
+- [[Optimizing Pen Profit]]
+- [[Optimizing Cable Length]]
+- [[Optimizing Rectangle In Semicircle]]
 # Optimizing In Economics
 ### Extreme Problems In Economics
 - $C(x) \to$ Cost function
@@ -22,6 +25,7 @@ The process that solves for the best possible outcome
 	- $R(x) = xp(x)$
 	- $R'(x) \to$ Marginal Revenue Function
 - $P(x) \to$ Profit Function
+	- $P(x) = R(x)-C(x)$
 	- $P'(x) \to$ Marginal Profit
 - $c(x) \to$ average cost
 	- $c(x) = \frac{C(x)}{x}$
