@@ -27,3 +27,7 @@ tags:
 # Unit 3
 - [[Optimization]]
 - [[Sexagesimal]]
+# Unit 6
+- [[Vectors]]
+- [[Scalars]]
+- [[Bearings]]
