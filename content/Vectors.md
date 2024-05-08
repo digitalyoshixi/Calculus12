@@ -14,6 +14,9 @@ $\vec{u} = \vec{v}$
 ### Opposite Vectors
 Same magnitude, different direction
 $\vec{u}=-\vec{v}$
+### Collinear Vectors
+2 vectors are going in the same direction but have different scalars.
+$\vec{u}=k\vec{v}$
 # Vector Addition
 2 Methods. Same logic
 ### Parallelogram Law
@@ -26,3 +29,7 @@ Only happens in 2 cases:
 2. If $\vec{u}$ = $k \vec{v}$. $| \vec{u}+\vec{v}| \leq |\vec{u}| + |\vec{v}|$. $k \epsilon N$
 # Vector Subtraction
 ![[Vectors-20240502131027487.webp]]
+# Vector Scalar Multiplication
+![[Vectors-20240508124905073.webp]]
+For a vector $k\vec{v}$ the scalar value is $k|\vec{v}|$
+Direction does not change unless the k value is negative, in which case it flips to the other direction
