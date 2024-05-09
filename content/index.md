@@ -29,5 +29,6 @@ tags:
 - [[Sexagesimal]]
 # Unit 6
 - [[Vectors]]
+- [[Identity Element]]
 - [[Scalars]]
 - [[Bearings]]
