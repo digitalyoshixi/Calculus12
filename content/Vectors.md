@@ -17,7 +17,18 @@ $\vec{u}=-\vec{v}$
 ### Collinear Vectors
 2 vectors are going in the same direction but have different scalars.
 $\vec{u}=k\vec{v}$
-# Vector Operations
-- [[Vector Addition]]
-- [[Vector Subtraction]]
-- [[Vector Scalar Multiplication]]
+# 2D Vectors
+Represented by $\overrightarrow{[x,y]}$
+### Operations
+- [[2D Vector Addition]]
+- [[2D Vector Subtraction]]
+- [[2D Vector Scalar Multiplication]]
+### Special Vector Types
+- [[2D Position Vector]]
+# 3D Vectors
+Represented by $\overrightarrow{[x,y,z]}$ 
+![[Vectors-20240510205643544.webp|250]]
+### Reserved Vectors
+- $i= \overrightarrow{[1,0,0]}$
+- $j= \overrightarrow{[0,1,0]}$
+- $k= \overrightarrow{[0,0,1]}$
