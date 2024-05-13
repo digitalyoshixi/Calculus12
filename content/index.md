@@ -32,3 +32,4 @@ tags:
 - [[Identity Element]]
 - [[Scalars]]
 - [[Bearings]]
+- [[Points]]

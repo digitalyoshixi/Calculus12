@@ -22,3 +22,5 @@ $$\vec{u}+\vec{v}+\vec{r}+\dots=\vec{r}+\vec{v}+\vec{u}+\dots=\vec{v}+\vec{u}+\v
 Adding a vector of magnitude 0 to another vector will not change the vector at all. It retains its identity.
 $$\vec{v} = 0$$
 $$\vec{u}+\vec{v} = \vec{u}$$
+# Getting Resultant from 2 Origin Vectors
+$\overrightarrow{AB}=\overrightarrow{OB}-\overrightarrow{OA}$
