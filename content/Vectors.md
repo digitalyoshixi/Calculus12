@@ -17,6 +17,8 @@ $\vec{u}=-\vec{v}$
 ### Collinear Vectors
 2 vectors are going in the same direction but have different scalars.
 $\vec{u}=k\vec{v}$
+### Coplanar Vector
+2 Vectors lie on the same plane.
 # Vector Concepts
 - [[Vector Addition]]
 - [[Vector Subtraction]]
@@ -24,17 +26,19 @@ $\vec{u}=k\vec{v}$
 - [[Vector Magnitude]]
 - [[Component Vector Operations]]
 - [[Turning Vectors Into Unit Vectors]]
+- [[Spanning Sets]]
 # 2D Vectors
 Represented by $\overrightarrow{[x,y]}$
-### Reserved Vectors
+### Standard Unit Vectors
 - $i= \overrightarrow{[1,0]}$
 - $j= \overrightarrow{[0,1]}$
 ### Special Vector Types
 - [[2D Position Vector]]
 # 3D Vectors
 Represented by $\overrightarrow{[x,y,z]}$ 
+
 ![[Vectors-20240513143838424.webp|462]]
-### Reserved Vectors
+### Standard Unit Vectors
 - $i= \overrightarrow{[1,0,0]}$
 - $j= \overrightarrow{[0,1,0]}$
 - $k= \overrightarrow{[0,0,1]}$
