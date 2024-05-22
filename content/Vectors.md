@@ -6,7 +6,8 @@ A vector is a quantity that describes both magnitude and direction.
 ![[Vectors-20240502125409667.webp]]
 # Vector Types
 ### Unit Vector
-Magnitude of vector is 1
+Magnitude of vector is 1.
+Denoted by $\hat{v}$
 # Vector Relationships
 ### Equal Vectors
 2 vectors are equal if they have the same magnitude and direction
@@ -19,6 +20,9 @@ $\vec{u}=-\vec{v}$
 $\vec{u}=k\vec{v}$
 ### Coplanar Vector
 2 Vectors lie on the same plane.
+You can write one vector as a linear combination of the other 2.
+$\vec{a},\vec{b}\ \epsilon\ \vec{c}$
+$\vec{c} = s\vec{a} + t\vec{b}$
 # Vector Concepts
 - [[Vector Addition]]
 - [[Vector Subtraction]]

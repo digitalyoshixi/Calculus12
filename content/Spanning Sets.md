@@ -8,7 +8,7 @@ Every other vector can be created as a combination of the 2 non-collinear vector
 If a pair of 2D vectors is:
 - Non-zero components
 - Non-collinear
-Then they span $R^2$. They will be considered co-planar in $R^3$
+Then they span $R^2$. They will be considered co-planar and span the same plane in $R^3$
 # 3D Spanning Set
 You need atleast 3 3D vectors to span $R^3$
 - Non-zero components
