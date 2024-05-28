@@ -36,6 +36,7 @@ tags:
 - [[Vectors as Forces]]
 - [[Equidistant Points]]
 - [[Dot Product]]
+- [[Cross Product]]
 ### Unit 6 Questions
 - [[Wind Speed Questions]]
 - [[Dot Product Prove Perpendicular Questions]]
