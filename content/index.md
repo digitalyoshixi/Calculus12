@@ -36,6 +36,9 @@ tags:
 - [[Vectors as Forces]]
 - [[Equidistant Points]]
 - [[Dot Product]]
+- [[Vector Projection]]
+- [[Scalar Projection]]
+- [[Direction Cosines]]
 - [[Cross Product]]
 ### Unit 6 Questions
 - [[Wind Speed Questions]]
