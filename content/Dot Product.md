@@ -2,7 +2,7 @@
 tags:
   - vectors
 ---
-The dot product is used to find a relationship between 2 [[Vectors]]
+The dot product is used to find a relationship between 2 [[Vectors]]. This products a scalar quantity
 $$\overrightarrow{a}\cdot\overrightarrow{b}=|\overrightarrow{a}|*|\overrightarrow{b}|*\cos\theta$$
 $\overrightarrow{a}\cdot\overrightarrow{b}>0$ if $\theta<90$
 $\overrightarrow{a}\cdot\overrightarrow{b}=0$ if $\theta=90$
