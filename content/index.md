@@ -34,6 +34,8 @@ tags:
 - [[Bearings]]
 - [[Points]]
 - [[Vectors as Forces]]
+### Unit 6 Questions
+- [[Wind Speed Questions]]
 # Unit 7
 - [[Equidistant Points]]
 - [[Dot Product]]
@@ -41,6 +43,3 @@ tags:
 - [[Scalar Projection]]
 - [[Direction Cosines]]
 - [[Cross Product]]
-### Unit 6 Questions
-- [[Wind Speed Questions]]
-- [[Dot Product Prove Perpendicular Questions]]

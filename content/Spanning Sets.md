@@ -15,3 +15,10 @@ You need atleast 3 3D vectors to span $R^3$
 - Non-collinear
 - Non-coplanar
 You cannot have 2 vectors that span $R^3$ as those would always be considered cplanar
+
+# Coplanar Conditions
+### Algebraic Method
+$$\vec{a}=s \vec{b} + t \vec{c}$$
+### Triple Product Method
+$$\vec{a} \cdot ( \vec{b} \times \vec{c})=0$$
+
