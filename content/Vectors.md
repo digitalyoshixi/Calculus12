@@ -15,14 +15,16 @@ $\vec{u} = \vec{v}$
 ### Opposite Vectors
 Same magnitude, different direction
 $\vec{u}=-\vec{v}$
-### Collinear Vectors
+### [[Colinear Vectors]]
 2 vectors are going in the same direction but have different scalars.
 $\vec{u}=k\vec{v}$
-### Coplanar Vector
+### [[Co-planar Vectors]]
 2 Vectors lie on the same plane.
 You can write one vector as a linear combination of the other 2.
 $\vec{a},\vec{b}\ \epsilon\ \vec{c}$
 $\vec{c} = s\vec{a} + t\vec{b}$
+### [[Perpendicular Vectors]]
+
 # Vector Concepts
 - [[Vector Addition]]
 - [[Vector Subtraction]]
@@ -38,6 +40,7 @@ Represented by $\overrightarrow{[x,y]}$
 - $j= \overrightarrow{[0,1]}$
 ### Special Vector Types
 - [[2D Position Vector]]
+- [[2D Direction Vector]]
 # 3D Vectors
 Represented by $\overrightarrow{[x,y,z]}$ 
 
