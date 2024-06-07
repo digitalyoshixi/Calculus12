@@ -30,5 +30,7 @@ $\vec{a}\times\vec{b} =-\vec{b}\times\vec{a}$
 $(\vec{a}\times\vec{b})\times\vec{c} \neq \vec{a}\times(\vec{b}\times\vec{c})$
 ### Distributive
 $\vec{a} \times(\vec{b}+\vec{c}) = \vec{a}\times \vec{b}+\vec{a}\times \vec{c}$
+This means
+$$(\vec{a}+\vec{b})\times(\vec{c}+\vec{d})=\vec{a} \times \vec{c} + \vec{a} \times \vec{c}+\vec{b} \times \vec{c}+\vec{b} \times \vec{d}$$
 ### Scalar Law Multiplication
 $k(\vec{p} \times \vec{q})=k\vec{p}\times k\vec{q}$

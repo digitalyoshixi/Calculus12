@@ -2,7 +2,7 @@
 tags:
   - vectors
 ---
-
+	 
 ![[Coplanar-20240605142902403.webp]]
 2+ vectors that span the same plane in $R^3$
 These vectors will share the same $R^2$ space
