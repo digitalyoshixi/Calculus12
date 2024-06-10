@@ -4,13 +4,14 @@ tags:
 aliases:
   - Equation of 2D Lines
 ---
+# $R^2$
 2D lines can be written if:
 - Given Slope
 - Given Point
 Or
 - Given 2 Points
 Written in [[Standard Form]] or [[Slope Intercept Form]]
-# Vector Equation
+### Vector Equation
 $$\vec{r}=\vec{r_{0}}+t \vec{m}$$
 or
 $$[x,y]=[x_{0},y_{0}]+t[m_{1},m_{2}]$$
@@ -21,20 +22,23 @@ Where:
 ### Creating Vector Equation Example
 ![[Equation of 2D Lines-20240604125744666.webp]]
 ### Closed Triangle Vector Addition Representation
-![[Equation of 2D Lines-20240604130434570.webp]]
-# Parametric Form
-Making a formula for each vector component.
-$$x=x_{0}+tm_{1}$$
-$$y=y_{0}+tm_{2}$$
-Vectors in parametric equations look like:
-![[Equation of 2D Lines-20240604131122790.webp]]
-You can turn this into a vector equation simply
-![[Equation of 2D Lines-20240604131207549.webp]]
-# Scalar Equation/Cartesian Equation
-Turning your 2D line into [[Standard Form]] 
-$$m=\frac{m_{1}}{m_{2}}$$
-$$0=\frac{m_{1}}{m_{2}}x+x_{0}-y$$
+![[Equation of 2D Lines-20240604130434570.webp|544]]
+### Slope Equation
+$$m=\overrightarrow{[x_{2}-x_{1},y_{2}-y_{1}]}$$
 
-# Symmetric Form
-$$\frac{x-x_{0}}{m_{1}}=\frac{y-y_{0}}{m_{2}}$$
-Does not apply to $R^3$
+
+# $R^3$
+Pretty much the same as in $R^2$
+The formula of a 3d line can be determined if:
+- Given slope
+- Given point
+Or
+- Given 2 Points
+# Vector Equation
+$$\vec{r}=\vec{r_{0}}+t \vec{m}$$
+or
+$$[x,y,z]=[x_{0},y_{0},z_{0}]+t[m_{1},m_{2},m_{3}]$$
+Where:
+- $r_{0}=[x_{0},y_{0},z_{0}]$ and is the position vector
+- $\vec{m}=[m_{1},m_{2},m_{3}]$ and is the direction vector
+- $t \epsilon \mathbb{R}$

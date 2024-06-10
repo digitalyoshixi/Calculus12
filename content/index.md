@@ -46,6 +46,11 @@ tags:
 - [[Heron's Formula]]
 # Unit 8
 - [[2D Vector Equation]]
+- [[Parametric Equation]]
+- [[Cartesian Eqution]]
+- [[Symmetric Equation]]
 - [[3D Vector Equation]]
+### Unit 8 Questions
+- [[Determine Angle Between 2 Vector Equation Lines]]
 # Exam Exclusive
 - [[Co-planar Vectors]]

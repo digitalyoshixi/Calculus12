@@ -1,7 +1,9 @@
 ---
 tags:
   - advfunctions
+aliases: []
 ---
+$$ax+by+c=0$$
 - Equation includes x and y
 - Equation equal to 0
 - No fractions
