@@ -45,11 +45,14 @@ tags:
 - [[Cross Product]]
 - [[Heron's Formula]]
 # Unit 8
-- [[2D Vector Equation]]
+- [[Vector Equation]]
 - [[Parametric Equation]]
-- [[Cartesian Eqution]]
+- [[Cartesian Equation]]
 - [[Symmetric Equation]]
-- [[3D Vector Equation]]
+- [[Planes]]
+	- [[Vector Equation of Plane]]
+	- [[Parametric Equation of Plane]]
+	- [[Cartesian Equation of Plane]]
 ### Unit 8 Questions
 - [[Determine Angle Between 2 Vector Equation Lines]]
 # Exam Exclusive

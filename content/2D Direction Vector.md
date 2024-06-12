@@ -4,7 +4,7 @@ tags:
 ---
 A vector that denotes the 'slope' of a vector.
 It is usually added to a [[2D Position Vector]] to show that it continues.
-If 2 [[2D Vector Equation]] have the same direction vector, then they are parallel
+If 2 [[Vector Equation]] have the same direction vector, then they are parallel
 # Perpendicular Direction Vector
 To find the perpendicular direction vector:
 1. Flip the x and y components 
