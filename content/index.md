@@ -53,7 +53,10 @@ tags:
 	- [[Vector Equation of Plane]]
 	- [[Parametric Equation of Plane]]
 	- [[Cartesian Equation of Plane]]
+- [[Converting Cartesian Equation to Vector Equation]]
 ### Unit 8 Questions
 - [[Determine Angle Between 2 Vector Equation Lines]]
+# Unit 9 
+- [[Distance Between Point and Plane]]
 # Exam Exclusive
 - [[Co-planar Vectors]]

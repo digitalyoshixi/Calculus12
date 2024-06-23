@@ -12,4 +12,4 @@ $$\vec{u}=k\vec{v}$$
 if a value of $k$ exists, then $\vec{u}$ and $\vec{v}$ are colinear
 ### Dot Product Proof
 $$\vec{v}\cdot \vec{u}=|\vec{v}|*|\vec{u}|$$
-As this would mean the angle is 0.
+As this would mean the angle is 0 or 180.
